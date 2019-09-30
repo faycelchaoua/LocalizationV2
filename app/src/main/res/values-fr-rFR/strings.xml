@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Localisation V2</string>
+    <string name="hello_world">Bonjour tout le monde !</string>
+    <string name="flag">Drapeau de la France</string>
+</resources>
